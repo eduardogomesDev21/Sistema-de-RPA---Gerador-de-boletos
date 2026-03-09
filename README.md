@@ -150,6 +150,6 @@ O navegador será aberto automaticamente e os boletos serão gerados.
 
 👨‍💻 Autor
 
-Projeto desenvolvido por Eduardo G.
+Projeto desenvolvido por Eduardo Gomes
 
 📌 Focado em automação de tarefas repetitivas com Python.
